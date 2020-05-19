@@ -12,7 +12,7 @@ Project Description
 ---
 The project is of the implementation of binary tree sort. Binary tree sort is implemented using binary search tree so that it allows dynamically data-set in sorted order. We can Insert infinite data in sorted order and by performing inorder traversal we can check the data in sorted order.
 
-**Note:* Refer to the image [Poster Binary Tree Sort](https://github.com/ismailyaqoob/Binary-Tree-Sort/blob/master/Poster.jpg)***
+**Note: Refer to the image [Poster Binary Tree Sort](https://github.com/ismailyaqoob/Binary-Tree-Sort/blob/master/Poster.jpg)**
 
 Technology
 ---
