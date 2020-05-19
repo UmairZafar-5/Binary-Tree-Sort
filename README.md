@@ -4,9 +4,9 @@ Implementation of Binary Tree Sort
 
 Group Member
 ---
-+ [M Umair Zafar](https://github.com/UmairZafar-5) (17B-026-SE)
-+ Sabih Mohsin (17B-058-SE)
-+ [Ismail Yaqoob](https://github.com/ismailyaqoob)  (17B-062-SE)
++ [M Umair Zafar (17B-026-SE)](https://github.com/UmairZafar-5) 
++ [Sabih Mohsin (17B-058-SE)](https://github.com/sabihmohsin)
++ [Ismail Yaqoob (17B-062-SE)](https://github.com/ismailyaqoob)  
 
 Project Description
 ---
